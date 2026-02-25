@@ -1,25 +1,12 @@
-<!-- ================= MATRIX ULTRA HACKER README ================= -->
+<!-- ================= LIVE LOX TV HACKER GLITCH README ================= -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">
-<pre>
-██╗     ██╗██╗   ██╗███████╗    ██╗      ██████╗ ██╗  ██╗
-██║     ██║██║   ██║██╔════╝    ██║     ██╔═══██╗╚██╗██╔╝
-██║     ██║██║   ██║█████╗      ██║     ██║   ██║ ╚███╔╝
-██║     ██║╚██╗ ██╔╝██╔══╝      ██║     ██║   ██║ ██╔██╗
-███████╗██║ ╚████╔╝ ███████╗    ███████╗╚██████╔╝██╔╝ ██╗
-╚══════╝╚═╝  ╚═══╝  ╚══════╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-</pre>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&height=70&lines=LIVE+LOX+TV;BDIX+IPTV+TERMINAL;ACCESS+GRANTED;STREAMING+INITIALIZED" />
 </h1>
-
-<h3 align="center">🟢 LIVE LOX TV TERMINAL SYSTEM 🟢</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Live-Lox-TV/Live-Lox-TV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" width="70%">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
@@ -29,17 +16,19 @@
 
 ---
 
-## 🖥️ SYSTEM BOOT
+## 🖥 SYSTEM BOOT LOG
 
 ```bash
-root@live-lox-tv:~# initializing IPTV core...
-root@live-lox-tv:~# connecting to BDIX network...
-root@live-lox-tv:~# access granted ✔
+root@live-lox-tv:~# booting core...
+root@live-lox-tv:~# connecting to BDIX node...
+root@live-lox-tv:~# authentication success ✔
+root@live-lox-tv:~# loading IPTV engine...
+root@live-lox-tv:~# system online ✔
 ```
 
 ---
 
-## 🌐 CONNECT TO SERVER
+## 🌐 CONNECT SERVER
 
 ```bash
 $ open --web
@@ -51,63 +40,38 @@ https://live-lox-tv.github.io/Live-Lox-TV
 ## 📡 LOAD PLAYLIST
 
 ```bash
-$ fetch --bdix-playlist
+$ fetch --playlist
 https://github.com/Live-Lox-TV/Live-Lox-TV/raw/main/playlist.m3u
 ```
 
 ---
 
-## ⚙️ FEATURES ENGINE
+## ⚙ FEATURES
 
 ```diff
 + Ultra Fast BDIX Streaming
 + Premium Sports Channels
-+ Live News Broadcast
++ Live News
 + Movies & Entertainment
-+ All IPTV Players Supported
 + Auto Updating System
++ IPTV Player Compatible
 ```
 
 ---
 
-## 🛠 SUPPORTED PLAYERS
+## 👨‍💻 DEVELOPER ACCESS
 
 ```bash
-> OTT Navigator
-> IPTV Smarters
-> Televizo
-> NS Player
-```
-
----
-
-## 🔐 SECURITY NOTICE
-
-```bash
-> This repository hosts NO streaming content
-> All links are publicly available sources
-> For educational purpose only
-```
-
----
-
-## 👨‍💻 DEVELOPER TERMINAL
-
-```bash
-> developer  : Raim
-> status     : Active
-> project    : Live Lox TV
-> mission    : Free BDIX IPTV Access
+> developer : Raim
+> build     : Live Lox TV
+> status    : Active
+> mission   : Free BDIX IPTV Access
 ```
 
 ---
 
 <p align="center">
-<code>root@live-lox-tv:~# echo "Streaming Initialized Successfully..."</code>
-</p>
-
-<p align="center">
-🟢 SYSTEM ACTIVE | LIVE LOX TV ONLINE 🟢
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&height=50&lines=LIVE+LOX+TV+ACTIVE;STREAMING+STARTED;WELCOME+TO+THE+TERMINAL" />
 </p>
 
 <p align="center">
