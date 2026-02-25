@@ -1,77 +1,115 @@
-## 👋 Welcome to Live Lox TV
+<!-- ================= MATRIX ULTRA HACKER README ================= -->
 
-<!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Live-Lox-TV/Live-Lox-TV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="Live Lox TV" width="75%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%">
 </p>
 
-<h1 align="center">🎬 Live Lox TV</h1>
-<h3 align="center">BDIX IPTV Playlist System</h3>
+<h1 align="center">
+<pre>
+██╗     ██╗██╗   ██╗███████╗    ██╗      ██████╗ ██╗  ██╗
+██║     ██║██║   ██║██╔════╝    ██║     ██╔═══██╗╚██╗██╔╝
+██║     ██║██║   ██║█████╗      ██║     ██║   ██║ ╚███╔╝
+██║     ██║╚██╗ ██╔╝██╔══╝      ██║     ██║   ██║ ██╔██╗
+███████╗██║ ╚████╔╝ ███████╗    ███████╗╚██████╔╝██╔╝ ██╗
+╚══════╝╚═╝  ╚═══╝  ╚══════╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+</pre>
+</h1>
+
+<h3 align="center">🟢 LIVE LOX TV TERMINAL SYSTEM 🟢</h3>
 
 <p align="center">
-  ⚡ Auto Updating Every 10 Minutes <br>
-  🚀 Optimized for BDIX Users <br>
-  📡 Smooth & Fast Streaming Experience
+  <img src="https://raw.githubusercontent.com/Live-Lox-TV/Live-Lox-TV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" width="70%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Live-Lox-TV/Live-Lox-TV">
-    <img src="https://komarev.com/ghpvc/?username=Live-Lox-TV&label=PROFILE+VIEWS&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-006A4E?style=for-the-badge">
-</p>
-
----
-
-## 🌐 Official Website
-
-<p align="center">
-  <a href="https://live-lox-tv.github.io/Live-Lox-TV">
-    🔗 Visit Live Lox TV Website
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NETWORK-BDIX-00FF00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AUTO_UPDATE-10_MIN-00FF00?style=for-the-badge">
 </p>
 
 ---
 
-## 📺 IPTV Playlist
+## 🖥️ SYSTEM BOOT
+
+```bash
+root@live-lox-tv:~# initializing IPTV core...
+root@live-lox-tv:~# connecting to BDIX network...
+root@live-lox-tv:~# access granted ✔
+```
+
+---
+
+## 🌐 CONNECT TO SERVER
+
+```bash
+$ open --web
+https://live-lox-tv.github.io/Live-Lox-TV
+```
+
+---
+
+## 📡 LOAD PLAYLIST
+
+```bash
+$ fetch --bdix-playlist
+https://github.com/Live-Lox-TV/Live-Lox-TV/raw/main/playlist.m3u
+```
+
+---
+
+## ⚙️ FEATURES ENGINE
+
+```diff
++ Ultra Fast BDIX Streaming
++ Premium Sports Channels
++ Live News Broadcast
++ Movies & Entertainment
++ All IPTV Players Supported
++ Auto Updating System
+```
+
+---
+
+## 🛠 SUPPORTED PLAYERS
+
+```bash
+> OTT Navigator
+> IPTV Smarters
+> Televizo
+> NS Player
+```
+
+---
+
+## 🔐 SECURITY NOTICE
+
+```bash
+> This repository hosts NO streaming content
+> All links are publicly available sources
+> For educational purpose only
+```
+
+---
+
+## 👨‍💻 DEVELOPER TERMINAL
+
+```bash
+> developer  : Raim
+> status     : Active
+> project    : Live Lox TV
+> mission    : Free BDIX IPTV Access
+```
+
+---
 
 <p align="center">
-  <a href="https://github.com/Live-Lox-TV/Live-Lox-TV/raw/main/playlist.m3u">
-    ▶️ Click Here To Access Playlist
-  </a>
+<code>root@live-lox-tv:~# echo "Streaming Initialized Successfully..."</code>
 </p>
 
----
-
-## ✨ Features
-
-- ⚡ Super Fast BDIX Streaming  
-- 🏆 Premium Sports Channels  
-- 📰 News & Entertainment  
-- 🎬 Movies & Live TV  
-- 🔄 Auto Update System  
-- 📱 Supported in All IPTV Players  
-
----
-
-## 👨‍💻 Developer
-
 <p align="center">
-  ❤️‍🔥 Developed with Passion by <b>Raim</b> ❤️‍🔥
+🟢 SYSTEM ACTIVE | LIVE LOX TV ONLINE 🟢
 </p>
 
----
-
-## 🔗 Connect
-
 <p align="center">
-  <a href="https://github.com/Live-Lox-TV">
-    🌟 GitHub Profile
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like this project, don’t forget to star the repository!
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
 </p>
