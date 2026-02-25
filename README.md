@@ -2,11 +2,11 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Live-Lox-TV/Live-Lox-TV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="Mrgify-TV" width="80%">
+  <img src="https://raw.githubusercontent.com/Live-Lox-TV/Live-Lox-TV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="live Lox TV" width="80%">
 
 <h2 align="center">
   <br>
-  Mrgify-TV  
+  live Lox TV
   <br>
   BDIX IPTV Playlist
   <br>
@@ -36,26 +36,10 @@ https://live-lox-tv.github.io/Live-Lox-TV
 
 https://github.com/Live-Lox-TV/Live-Lox-TV/raw/main/playlist.m3u
 
-Short Link:
-https://is.gd/mrgifytv
-
 ---
 
 ## 🔗 Stay Connected
 
 Owner GitHub:  
 https://github.com/Live-Lox-TV
-<!--
-**Live-Lox-TV/Live-Lox-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️‍🩹❤️‍🩹 Developer By Raim ❤️‍🩹❤️‍🩹
